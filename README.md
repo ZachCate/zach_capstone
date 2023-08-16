@@ -1,5 +1,3 @@
-# zach_capstone
-
 # Exploring the Relationship Between Alternative Energy and CO2 Emissions
 
 ## Table of Contents
