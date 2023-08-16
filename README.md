@@ -1,17 +1,6 @@
 # zach_capstone
 
-Exploring the Intersection of Alternative Energy and CO2 Emissions
-This project aims to explore the relationship between alternative energy adoption and CO2 emissions reduction using data-driven analysis and methodologies.
-
-Table of Contents
-Installation
-Usage
-Data Sources
-Getting Started
-Features
-Contributing
-
-# Project Title
+# Exploring the Relationship Between Alternative Energy and CO2 Emissions
 
 ## Table of Contents
 - [Introduction](#introduction)
